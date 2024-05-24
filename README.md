@@ -49,3 +49,6 @@ Parameter selection, particularly the max length and vocab size, is crucial due 
 
 ## Word Embeddings Visualization:
 The final step involves visualizing word embeddings using the following link: [TensorFlow Projector](https://projector.tensorflow.org/). You can download the files from the following link for visualization: [TSV File](https://drive.google.com/drive/folders/1oyENkkB3_0_Nw-F_T1KxcgacQ6e8oyWo?usp=sharing).
+
+> [!CAUTION]
+> When running on your local machine, you might encounter some error on building model. To avoid this, I reccomend to use Python 3.11.
