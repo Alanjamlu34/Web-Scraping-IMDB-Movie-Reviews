@@ -45,5 +45,7 @@ Parameter selection, particularly the max length and vocab size, is crucial due 
   - Validation Loss: 0.5276
   - Validation Sparse Categorical Accuracy: 0.8721
 
+![image](https://github.com/Alanjamlu34/Web-Scraping-IMDB-Movie-Reviews/assets/142156489/f2989a63-5771-4a8d-8548-dc9204d5fdf0)
+
 **Word Embeddings Visualization:**
 The final step involves visualizing word embeddings using the following link: [TensorFlow Projector](https://projector.tensorflow.org/). You can download the files from the following link for visualization: `drive/alan`.
