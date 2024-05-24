@@ -15,12 +15,11 @@ The rationale behind conducting this analysis is primarily as an exercise to pra
     - **data_val.csv**
   - **ForrestGump_reviews.csv**
   - **ForrestGump_reviews1.csv**
-- **Natural Language Processing Folder:**
-  - **Analisis_Review.ipynb**
 - **Scraping Folder:**
   - **IMDB Forrest Gump.ipynb**
   - **Simple 1st data.ipynb**
   - **Split_dataset.ipynb**
+- **Analisis_Review.ipynb**
 - **Other Files:**
   - **README.md**
 
