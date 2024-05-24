@@ -47,5 +47,5 @@ Parameter selection, particularly the max length and vocab size, is crucial due 
 
 ![image](https://github.com/Alanjamlu34/Web-Scraping-IMDB-Movie-Reviews/assets/142156489/f2989a63-5771-4a8d-8548-dc9204d5fdf0)
 
-**Word Embeddings Visualization:**
-The final step involves visualizing word embeddings using the following link: [TensorFlow Projector](https://projector.tensorflow.org/). You can download the files from the following link for visualization: `drive/alan`.
+## Word Embeddings Visualization:
+The final step involves visualizing word embeddings using the following link: [TensorFlow Projector](https://projector.tensorflow.org/). You can download the files from the following link for visualization: [TSV File](https://drive.google.com/drive/folders/1oyENkkB3_0_Nw-F_T1KxcgacQ6e8oyWo?usp=sharing).
